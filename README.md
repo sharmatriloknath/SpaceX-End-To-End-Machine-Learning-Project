@@ -18,6 +18,7 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 pip install dash
 pip install pandas,numpy,matplotlib,seaborn.
 pip install scikit_learn
+pip install folium
 ```
 
 # Dashboard looks like:
