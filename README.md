@@ -19,3 +19,12 @@ pip install dash
 pip install pandas,numpy,matplotlib,seaborn.
 pip install scikit_learn
 ```
+
+# Dashboard looks like:
+## Layout:
+
+![Dashboard](https://github.com/sharmatriloknath/SpaceX-End-To-End-Machine-Learning-Project/blob/main/Images/Dashboard.png?raw=true)
+
+## After Data:
+
+![Dashboard](https://github.com/sharmatriloknath/SpaceX-End-To-End-Machine-Learning-Project/blob/main/Images/Final%20Dashboard.png?raw=true)
