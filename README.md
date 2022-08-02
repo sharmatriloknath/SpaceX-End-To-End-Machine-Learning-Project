@@ -24,8 +24,8 @@ pip install folium
 # Dashboard looks like:
 ## Layout:
 
-![Dashboard](https://github.com/sharmatriloknath/SpaceX-End-To-End-Machine-Learning-Project/blob/main/Images/Dashboard.png?raw=true)
+![Dashboard](https://github.com/sharmatriloknath/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/Images/Dashboard.png?raw=true)
 
 ## After Data:
 
-![Dashboard](https://github.com/sharmatriloknath/SpaceX-End-To-End-Machine-Learning-Project/blob/main/Images/Final%20Dashboard.png?raw=true)
+![Dashboard](![Final Dashboard](https://github.com/sharmatriloknath/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/Images/Final%20Dashboard.png?raw=true))
